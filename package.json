@@ -1,0 +1,24 @@
+{
+  "name": "gbtechive-pseb-internship",
+  "version": "1.0.0",
+  "description": "Daily class work and practice done during PSEB Internship",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Rahi776/GBTechive_PSEB_Intership.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "internship",
+    "pseb"
+  ],
+  "author": "Rehmat Ali",
+  "license": "ISC"
+}
